@@ -1,0 +1,38 @@
+{
+  "name": "LegendBody: Reliable Source In The World Of Bodybuilding",
+  "short_name": "LegendBody",
+  "description": "Rich and authoritative source of information from the world of bodybuilding",
+  "start_url": "/",
+  "background_color": "#1b1b1b",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "theme_color": "#1b1b1b",
+
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "./google-icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "./google-icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "./google-maskable-icon.png",
+      "sizes": "196x196",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
